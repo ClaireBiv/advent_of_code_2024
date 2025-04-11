@@ -1,3 +1,5 @@
+# DISCLAIMER: NOT MY SOLUTION!!
+
 G = {i+j*1j: c for i,r in enumerate(open('input.txt'))
                for j,c in enumerate(r.strip())}
 

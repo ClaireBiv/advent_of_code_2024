@@ -1,3 +1,5 @@
+# DISCLAIMER: NOT MY SOLUTION!!
+
 from collections import deque
 
 inp = []
